@@ -1,3 +1,3 @@
 # Whatsapp-automation-using-selenium
-Automating Whatsapp messages Using Selenium 
+Automating Whatsapp messages Using Selenium Library
  
